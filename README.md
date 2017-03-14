@@ -1,0 +1,2 @@
+# Palette
+HTML, CSS, JavaScript
